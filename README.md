@@ -1,4 +1,4 @@
-## React Compiler
+## Installation
 
 - Faire un [`git clone https://github.com/BoRomain/Gestion-Film-React-CESI.git`]
 - Dans le projet, faire un [`npm install`]
