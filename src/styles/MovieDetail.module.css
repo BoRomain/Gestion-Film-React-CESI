@@ -1,0 +1,35 @@
+.actorsList {
+    display: flex;
+    overflow-x: scroll; 
+    gap: 20px;
+}
+
+.actorsList img {
+    width: 150px;
+}
+
+.actorCard {
+    background: linear-gradient(to bottom right, #222, #111);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.similarMoviesList {
+    display: flex;
+    overflow-x: scroll; 
+    gap: 20px;
+}
+
+.similarMoviesList img {
+    width: 150px;
+}
+
+.similarMovieCard {
+    background: linear-gradient(to bottom right, #222, #111);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+img {
+    width: 300px;
+}
